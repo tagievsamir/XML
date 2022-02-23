@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<structure>
+<created_date>18.02.2022</created_date>
+<author>Tagiev_S.N.</author>
+<project>ksendzov.com</project>
+<summary>lines_of_text_overlap_(mobile only)</summary>
+<component>course_program_points</component>
+<severity>minor</severity>
+<priority>trivial</priority>
+<status>new</status>
+<incident_type>bug</incident_type>
+<category>text</category>
+<environment>
+<android_version>11</android_version>
+<chrome_version>97.0.4692.98</chrome_version>
+</environment>
+<description>
+<steps_to_reproduse>Open_ksendzov.com</steps_to_reproduse>
+<steps_to_reproduse>Go_to_point_26_of_the_course_program</steps_to_reproduse>
+<result>lines_of_text_overlap_(mobile only)</result>
+</description>
+</structure>

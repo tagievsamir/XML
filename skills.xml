@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<skills>
+<theory>testing,bug_reports,documentation,types,methods,testing_areas,SDLC,STLC</theory>
+<theory>client-server_architecture</theory>
+<http>Methods_of_requests_to_the_server</http>
+<http>server_response_codes</http>
+<http>Structures of HTTP requests and responses</http>
+<structure>JSON,XML</structure>
+<tests>API_testing_via_postman_(JS,API_autotests)</tests>
+<sniffing>Charles,Fiddler</sniffing>
+<devtools>Google_Chrome,FireFox</devtools>
+<vpn>work,use,tool_options</vpn>
+<mobile>Feature_iOS,Android,guidelines</mobile>
+<mobile>Building_iOS_applications_on_XCode</mobile>
+<mobile>Building_Android_applications_on_Android_Studio</mobile>
+<mobile>ADB(android device management)</mobile>
+<mobile>Setting_up_proxy_and_vpn_on_iOS_and_Android</mobile>
+<mobile>sniffing_Charles_and_Fiddler_on_iOS_and_Android</mobile>
+<terminal>copying,creating,viewing,moving</terminal>
+<sql>Create, Delete, Drop, Insert Into, Select, From, Where, Join</sql>
+<postgres>installation,configuration,use</postgres>
+<redis>installation,configuration,use</redis>
+<jmeter>Load testing</jmeter>
+<scrum>development_methodology</scrum>
+<python>Learning_the_basics.Creating_a_client-server_application</python>
+</skills>
